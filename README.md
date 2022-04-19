@@ -7,7 +7,7 @@ Aspiring to be Full-Stack Web Developer
 I'm a passionate self-taught web developer who has a major interest in web development field. I love building things, writing, and speaking to people.
 
 * 🌍  I'm based in IN
-* 🧠  I'm learning JS, React
+* 🧠  I'm learning JS, React and python, DSA
 * 🤝  I'm open to collaborating on web related and python projects
 * ⚡  whoami #Just an ordinary person who loves building things via web.
 
