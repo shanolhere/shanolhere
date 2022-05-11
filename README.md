@@ -2,7 +2,7 @@ Hi 👋 My name is @shanolhere
 ============================
 
 Aspiring to be a Full-Stack Web Developer
----------------------------------------
+-----------------------------------------
 
 I'm a passionate self-taught web developer who has a major interest in web development field. I love building things, writing, and speaking to people.
 
