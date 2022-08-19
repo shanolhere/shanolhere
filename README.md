@@ -1,4 +1,4 @@
-Hi 👋 My name is @shanolhere
+Hi 👋 
 =========================================================================
 
 Aspiring to be a Full-Stack Web Developer
